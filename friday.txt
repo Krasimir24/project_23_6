@@ -1,1 +1,4 @@
-ECHO is on.
+ECHO is on:)
+It is nice:)
+Life is good:)
+Today is friday:)
